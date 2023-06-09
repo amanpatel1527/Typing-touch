@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Typing-touch/static/css/main.e6c13ad2.css",
+    "main.js": "/Typing-touch/static/js/main.5b51ac47.js",
+    "static/js/845.fc006b3b.chunk.js": "/Typing-touch/static/js/845.fc006b3b.chunk.js",
+    "static/media/typeSoft.wav": "/Typing-touch/static/media/typeSoft.3e307070c0d43972460c.wav",
+    "static/media/keyboard.wav": "/Typing-touch/static/media/keyboard.f9440324ce3fbfc79f5b.wav",
+    "static/media/cherryBlue.wav": "/Typing-touch/static/media/cherryBlue.f4cad75e8a5792bb3d25.wav",
+    "index.html": "/Typing-touch/index.html",
+    "main.e6c13ad2.css.map": "/Typing-touch/static/css/main.e6c13ad2.css.map",
+    "main.5b51ac47.js.map": "/Typing-touch/static/js/main.5b51ac47.js.map",
+    "845.fc006b3b.chunk.js.map": "/Typing-touch/static/js/845.fc006b3b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.5b51ac47.js"
+  ]
+}
