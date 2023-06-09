@@ -64,7 +64,7 @@ const FooterMenu = ({
         {(
           <Box display="block" flexDirection="row" className="bottom-info">
             <IconButton
-              href="https://github.com/amanpatel1527/touch_typing"
+              href="https://github.com/amanpatel1527/Typing-touch"
               color="inherit"
             >
             </IconButton>
