@@ -44,7 +44,7 @@ const FooterMenu = ({
                   {GITHUB_TOOLTIP_TITLE}
                   <Link
                     margin="inherit"
-                    href="https://github.com/amanpatel1527/touch_typing"
+                    href="https://github.com/amanpatel1527/Typing-touch"
                   >
                     {GITHUB_REPO_LINK}
                   </Link>
@@ -53,7 +53,7 @@ const FooterMenu = ({
               placement="top-start"
             >
               <IconButton
-                href="https://github.com/amanpatel1527/touch_typing"
+                href="https://github.com/amanpatel1527/Typing-touch"
                 color="inherit"
               >
                 <GitHubIcon></GitHubIcon>
